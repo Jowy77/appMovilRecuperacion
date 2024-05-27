@@ -33,7 +33,7 @@ fun CreateDailog(viewModel: ViewModelRetrofit, onCloseDialog: () -> Unit){
 
         },
         title = {
-            Text(text = "CREAR HUESPED")
+            Text(text = "CREAR JUEGO")
         },
         text = {
             Column {
